@@ -78,7 +78,7 @@ I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlp
 ---
 
 ### 📇 Contact Me :
-If you 'd like to get in touch, feel free to reach out to me at 📧 [mohamedsamer1532@gmail.com](mohamedsamer1532@gmail.com)
+If you 'd like to get in touch, feel free to reach out to me at 📧 [mohamedsamer1532@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 
 Thanks for stopping here.
 
