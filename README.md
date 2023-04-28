@@ -75,8 +75,12 @@ I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Silaya&layout=compact&theme=vision-friendly-dark)](https://github.com/Mohamed-Silaya/github-readme-stats)
 
 
+---
 
+### 📇 Contact Me :
+If you 'd like to get in touch, feel free to reach out to me at 📧 [mohamedsamer1532@gmail.com](mohamedsamer1532@gmail.com)
 
+Thanks for stopping here.
 
 
 
