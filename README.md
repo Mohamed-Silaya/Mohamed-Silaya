@@ -43,7 +43,8 @@ I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlp
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" **alt="matlab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -76,11 +77,21 @@ I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlp
 
 
 ---
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+#### See last article on Medium
+<p align="left">
+<a href="https://medium.com/@mohamedsamer1532" target="blank"><img align="center" src="https://img.shields.io/badge/medium-Article-informational?style=flat&logo=medium&logoColor=white&color"alt="@mohamedsamer1532"  /></a>
+</p>
 
+---
 ### 📇 Contact Me :
 If you 'd like to get in touch, feel free to reach out to me at 📧 [mohamedsamer1532@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 
 Thanks for stopping here.
+
+
 
 
 
