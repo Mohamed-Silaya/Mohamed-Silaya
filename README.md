@@ -73,8 +73,9 @@ I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlp
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Silaya&layout=compact&theme=vision-friendly-dark)](https://github.com/Mohamed-Silaya/github-readme-stats)
 
+
+![Top_langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mohamed-Silaya&layout=compact&theme=vision-friendly-dark)
 
 ---
 ### Blogs posts
