@@ -5,10 +5,10 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mohamed-samir-8b585b14a/">
+  <a href="https://www.linkedin.com/in/mohamed-silaya-8b585b14a/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"/>
   </a>
-  <a href="h  https://medium.com/@mohamedsamer1532">
+  <a href="https://medium.com/@mohamedsamer1532">
     <img src="https://img.shields.io/badge/medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=0D76A8" alt="medium Badge"/>
   </a>
   <a href="https://www.hackerrank.com/dashboard">
