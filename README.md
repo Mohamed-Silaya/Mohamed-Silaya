@@ -28,7 +28,7 @@
 
 
 ### :man_technologist: About Me :
-I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am an  Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
 - :telescope: I’m working as a Software Engineer .
 
