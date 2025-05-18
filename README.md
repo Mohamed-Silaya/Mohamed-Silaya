@@ -46,8 +46,10 @@ I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" **alt="matlab" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -64,18 +66,24 @@ I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>
   
+  
 </div>
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+### 🔥 Coding Activity & Stats
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Silaya&theme=dark&background=1A1B27&border=44475A&ring=50FA7B&fire=FF5555&currStreakNum=FFFFFF&sideNums=BD93F9&currStreakLabel=BD93F9&sideLabels=FF79C6&dates=6272A4)](https://git.io/streak-stats)
 
 
-![Top_langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mohamed-Silaya&layout=compact&theme=vision-friendly-dark)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Silaya&layout=compact&theme=dracula&bg_color=1A1B27&hide_border=true&langs_count=8&exclude_repo=repo1,repo2)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 ### Blogs posts
